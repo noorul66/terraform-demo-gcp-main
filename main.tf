@@ -1,3 +1,4 @@
+/*
 resource "google_storage_bucket" "auto-expire" {
   name          = "mysecondproject-389607-bucket"
   location      = "US"
@@ -21,3 +22,4 @@ resource "google_storage_bucket" "auto-expire" {
     }
   }
 }
+*/
